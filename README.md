@@ -29,6 +29,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/trilatus/trilatus/output/snake.svg" alt="Snake animation" />
 
 ###
