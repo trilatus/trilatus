@@ -1,11 +1,12 @@
 <h2 align="left">Hi 👋! I'm a Student with a bachelor in computer science and a ongoing master in high-performance computer systems.
 
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats-sand-eight-57.vercel.app/api/top-langs?username=trilatus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
